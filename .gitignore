@@ -2,9 +2,9 @@
 /.dart_tool
 /.vscode
 /analysis_options.yaml
-/android
-/build
-/ios
+
+
+
 /provider_overview_02.iml
 /pubspec.lock
 /web
